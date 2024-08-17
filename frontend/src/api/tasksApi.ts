@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080/tasks';
+const API_URL = 'https://trackify-backend-ylhf.onrender.com/tasks';
 
 export interface Task {
   id?: string;

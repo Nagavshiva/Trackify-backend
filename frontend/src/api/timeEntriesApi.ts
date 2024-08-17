@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080/timeEntries'; // Adjust this to your actual API URL
+const API_URL = 'https://trackify-backend-ylhf.onrender.com/timeEntries'; // Adjust this to your actual API URL
 
 export interface TimeEntry {
     id: string;

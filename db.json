@@ -9,11 +9,6 @@
       "name": "Project Two",
       "description": "Description for Project Two",
       "id": "2"
-    },
-    {
-      "id": "be82",
-      "name": "Project One",
-      "description": "Description for Project Three"
     }
   ],
   "tasks": [
@@ -44,13 +39,6 @@
       "completed": false,
       "projectId": "2",
       "id": "eaeb"
-    },
-    {
-      "id": "ccad",
-      "title": "g",
-      "description": "g",
-      "completed": true,
-      "projectId": "be82"
     }
   ],
   "timeEntries": [
