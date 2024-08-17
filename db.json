@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "name": "Project One",
+      "description": "Description for Project One",
+      "id": "1"
+    },
+    {
+      "name": "Project Two",
+      "description": "Description for Project Two",
+      "id": "2"
+    },
+    {
+      "id": "be82",
+      "name": "Project One",
+      "description": "Description for Project Three"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "projectId": 1,
+      "title": "Task One",
+      "description": "Description for Task One",
+      "status": "pending"
+    },
+    {
+      "title": "Task Two",
+      "description": "Description for Task Two",
+      "completed": true,
+      "projectId": 1,
+      "id": "2"
+    },
+    {
+      "id": "4ce1",
+      "title": "fg",
+      "description": "fdf",
+      "completed": true,
+      "projectId": "1"
+    },
+    {
+      "title": "dfd",
+      "description": "fdfff",
+      "completed": false,
+      "projectId": "2",
+      "id": "eaeb"
+    },
+    {
+      "id": "ccad",
+      "title": "g",
+      "description": "g",
+      "completed": true,
+      "projectId": "be82"
+    }
+  ],
+  "timeEntries": [
+    {
+      "id": "2024-08-17T04:52:59.071Z",
+      "projectName": "Project One",
+      "startTime": "10:23:32 AM",
+      "endTime": "10:23:36 AM",
+      "duration": "00:00:03",
+      "isRunning": false,
+      "count": 0
+    }
+  ]
+}
